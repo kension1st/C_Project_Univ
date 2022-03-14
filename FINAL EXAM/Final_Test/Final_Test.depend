@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589346376 source:d:\camp\c\assignment\final_test\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctime>
+

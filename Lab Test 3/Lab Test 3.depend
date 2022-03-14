@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588132588 source:d:\camp\c\assignment\lab test 3\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
