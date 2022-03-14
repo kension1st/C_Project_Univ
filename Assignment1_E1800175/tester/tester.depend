@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1608386953 source:d:\camp\c\assignment\tester\main.cpp
+	<iostream>
+	<conio.h>
+	<Material.h>
+	<user.h>
+	<collector.h>
+	<recycler.h>
+	<submission.h>
+	<vector>
+	<stdlib.h>
+	<ctime>
+
+1608385258 d:\camp\c\assignment\tester\include\material.h
+	<string>
+
+1608195919 source:d:\camp\c\assignment\tester\src\material.cpp
+
+1608199725 source:d:\camp\c\assignment\tester\src\user.cpp
+
+1608211466 source:d:\camp\c\assignment\tester\src\collector.cpp
+
+1608296621 source:d:\camp\c\assignment\tester\src\recycler.cpp
+
+1608385255 d:\camp\c\assignment\tester\include\user.h
+	<string>
+
+1608385251 d:\camp\c\assignment\tester\include\collector.h
+	<string>
+
+1608385237 d:\camp\c\assignment\tester\include\recycler.h
+	<string>
+
+1608298239 source:d:\camp\c\assignment\tester\src\submission.cpp
+
+1608385261 d:\camp\c\assignment\tester\include\submission.h
+	<string>
+

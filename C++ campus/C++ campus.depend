@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1602743192 source:d:\camp\c\assignment\c++ campus\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
+1602748648 source:d:\camp\c\assignment\c++ campus\untitled2.cpp
+	<iostream>
+
+1602748623 source:c:\users\yudim\documents\c++\tugas.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

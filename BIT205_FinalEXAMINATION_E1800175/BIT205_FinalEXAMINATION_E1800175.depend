@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1610429298 source:d:\camp\c\assignment\bit205_finalexamination_e1800175\main.cpp
+	<iostream>
+	<trainJourney.h>
+	<freightJourney.h>
+	<passengerJourney.h>
+	<vector>
+
+1610415308 source:d:\camp\c\assignment\bit205_finalexamination_e1800175\src\trainjourney.cpp
+
+1610418115 source:d:\camp\c\assignment\bit205_finalexamination_e1800175\src\freightjourney.cpp
+
+1610421716 source:d:\camp\c\assignment\bit205_finalexamination_e1800175\src\passengerjourney.cpp
+
+1610428558 d:\camp\c\assignment\bit205_finalexamination_e1800175\include\trainjourney.h
+	<string>
+
+1610424070 d:\camp\c\assignment\bit205_finalexamination_e1800175\include\freightjourney.h
+	<trainJourney.h>
+	<string>
+
+1610424183 d:\camp\c\assignment\bit205_finalexamination_e1800175\include\passengerjourney.h
+	<trainJourney.h>
+	<string>
+
