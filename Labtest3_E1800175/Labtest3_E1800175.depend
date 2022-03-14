@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1608689447 source:d:\camp\c\assignment\labtest3_e1800175\src\creditcard.cpp
+
+1608689398 source:d:\camp\c\assignment\labtest3_e1800175\src\transactions.cpp
+
+1608697650 source:d:\camp\c\assignment\labtest3_e1800175\main.cpp
+	<iostream>
+	<vector>
+	<creditCard.h>
+	<transactions.h>
+	<string>
+
+1640658811 d:\camp\c\assignment\labtest3_e1800175\include\creditcard.h
+	<string>
+
+1608695263 d:\camp\c\assignment\labtest3_e1800175\include\transactions.h
+	<string>
+
